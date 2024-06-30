@@ -5,4 +5,7 @@
  
  It uses:
    • cv2 (OpenCV): For image and video processing.
+   pip install opencv-python
+   
    • cvzone: A library that provides various computer vision utilities, including FaceMeshDetector used for detecting facial landmarks.
+   pip install cvzone
