@@ -9,3 +9,7 @@
    
    • cvzone: A library that provides various computer vision utilities, including FaceMeshDetector used for detecting facial landmarks.
    (pip install cvzone)
+
+# Process
+To get this program working, first you need to select the camera which can be use by the program to detect the eye's position.
+Then just run the program and let this code detect the position of your eye's.
