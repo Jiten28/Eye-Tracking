@@ -31,4 +31,18 @@ The Eye Tracking with Face Distance Finder program uses Python and computer visi
 5. **Interact with the Program**: The program will detect your face and eyes, display the distance, and track the positions in real-time.
 6. **Exit the Program**: Press the `q` key to close the application.
 
+### **Libraries and Installation Commands**
 
+1. **OpenCV (cv2)**
+   - **Install Command**:  
+     ```bash
+     pip install opencv-python
+     ```
+   - **Use**: For image and video processing.
+
+2. **cvzone**
+   - **Install Command**:  
+     ```bash
+     pip install cvzone
+     ```
+   - **Use**: Provides computer vision utilities, including the `FaceMeshDetector` for detecting facial landmarks.
