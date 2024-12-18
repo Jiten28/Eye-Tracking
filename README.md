@@ -20,3 +20,15 @@ The Eye Tracking with Face Distance Finder program uses Python and computer visi
 - **Enhanced Tracking**: Improve the precision of eye tracking, especially for users with different face shapes or facial hair.
 - **Integration with Other Systems**: Expand the program’s functionality to control devices based on eye movement or face distance, such as adjusting screen brightness or camera focus.
 
+### **Python Version**
+- Python 3.11.9 or higher.
+
+### **Steps to Start the Project**
+1. **Install Python**: Ensure Python version 3.11.9 or higher is installed.
+2. **Install Required Libraries**: Use the installation commands below to install the necessary Python libraries.
+3. **Set Up Camera**: Select the camera for the program to use for face detection.
+4. **Run the Program**: Execute the Python script to start the face and eye tracking.
+5. **Interact with the Program**: The program will detect your face and eyes, display the distance, and track the positions in real-time.
+6. **Exit the Program**: Press the `q` key to close the application.
+
+
