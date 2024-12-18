@@ -10,3 +10,13 @@ The Eye Tracking with Face Distance Finder program uses Python and computer visi
 - **Real-time Feedback**: Provides immediate visual feedback, displaying the face distance and eye positions on the webcam stream.
 - **Camera Flexibility**: Works with any camera supported by OpenCV.
 
+### **Challenges**
+- **Accuracy of Distance Calculation**: The calculated distance depends on the camera’s focal length and the known width of the face. Fine-tuning these parameters for different setups is crucial for accurate results.
+- **Lighting and Environment Conditions**: Variations in lighting can affect the accuracy of face detection and tracking.
+- **Real-time Performance**: Processing high-resolution video streams can be computationally intensive, potentially leading to performance issues in lower-spec systems.
+
+### **Future Enhancements**
+- **Facial Emotion Detection**: Add the capability to detect and analyze facial expressions to enhance user interaction.
+- **Enhanced Tracking**: Improve the precision of eye tracking, especially for users with different face shapes or facial hair.
+- **Integration with Other Systems**: Expand the program’s functionality to control devices based on eye movement or face distance, such as adjusting screen brightness or camera focus.
+
